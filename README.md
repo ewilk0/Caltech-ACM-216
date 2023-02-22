@@ -1,1 +1,1 @@
-Homework for ACM 216 (Markov Chains, Discrete Stochastics) at Caltech
+Homework for ACM 216 (Markov Chains, Discrete Stochastic Processes) at Caltech
